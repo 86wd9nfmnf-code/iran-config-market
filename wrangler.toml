@@ -1,0 +1,7 @@
+name = "iran-config-market"
+main = "index.js"
+compatibility_date = "2026-09-21"
+
+[vars]
+APP_URL = "https://iran-config-market.workers.dev"
+RESEND_FROM = "login@your-domain.com"
